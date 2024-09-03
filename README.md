@@ -1,3 +1,11 @@
+**Name**: LALITHA SHIVAPRIYA SRIRAMOJU                                                    
+**Company**: CODTECH IT SOLUTIONS
+**ID**: CT04DS7501
+**Domain**: Java Progamming
+**Duration**: August 25th - September 25th
+**Mentor**: 
+
+
 # studentGradeTracker
 In this program Student has to give obtained marks and total marks of each subject and then click on calculate.
 
