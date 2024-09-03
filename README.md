@@ -1,6 +1,4 @@
 # studentGradeTracker
-a Java program to track and manage student grades. The program should allow the user to input grades for different subjects or assignments, calculate the average grade, and display the overall grade.
-
 In this program Student has to give obtained marks and total marks of each subject and then click on calculate.
 
 The result i.e., Total marks obtained, Percentage, Grade Obtained, GPA, And a message will be shown.
