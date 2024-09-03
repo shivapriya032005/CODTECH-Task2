@@ -16,6 +16,9 @@ In this program Student has to give obtained marks and total marks of each subje
 
 The result i.e., Total marks obtained, Percentage, Grade Obtained, GPA, And a message will be shown.
 
+![Student Grade Tracker](https://github.com/user-attachments/assets/fb4997c8-a6dd-478c-abd8-e866c5f6065c)
+
+
 **Project Overview:**
 The Student Grade Tracker is a Java-based application designed to help students and educators track and calculate grades for multiple subjects. The application features a graphical user interface (GUI) developed using `JFrame` and related Swing components, making it easy to input marks and display results visually.
 
